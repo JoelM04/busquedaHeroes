@@ -1,0 +1,29 @@
+.heroes * {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.aquaman {
+    background-color: #ccab00;
+}
+
+.batman {
+    background-color: #1c1c1c;
+}
+
+.daredevil {
+    background-color: #6b0e1d;
+}
+
+.linterna-verde {
+    background-color: #162b14;
+}
+
+.spiderman {
+    background-color: #1d5c93;
+}
+
+.wolverine {
+    background-color: #111b2e;
+}
